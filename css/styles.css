@@ -1,0 +1,147 @@
+body{
+	margin: 0px;
+	text-align:center;
+	font-family: 'Merriweather', serif;
+	color:#40514E;
+
+}
+h1{
+
+	margin: 50px auto 0px auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 5.635rem;
+	color:#66BFBF;
+
+
+}
+.top_container{
+	background-color: #E4F9F5;
+	position:relative;
+	padding-top:100px;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	color:#66BFBF;
+	font-weight: normal;
+	padding-bottom:10px;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color:#11999E;
+}
+
+a{
+	color:#11999E;
+}
+
+.middle_container{
+	margin:100px auto 100px auto;
+}
+
+
+.bottom_container{
+
+background-color: #66bfbf;
+padding:50px 0 20px;
+}
+
+.pro{
+	
+}
+
+.bottomcld{
+	position: absolute;
+	left:250px;
+	bottom:140px;
+
+}
+.topcld{
+	position:absolute;
+	right: 320px;
+	top:40px;
+}
+span{
+	
+}
+.skills{
+	
+}
+.skill-row{
+	width:50%;
+	margin: 100px auto 100px auto;
+	text-align:left;
+	line-height: 2;
+}
+
+.skill-img{
+	width:25%;
+	float: left;
+	margin-right:30px;
+}
+.tea-img{
+	width:25%;
+	height: 10 rem;
+	float: right;
+	margin-left:30px;
+
+}
+.profile{
+	
+	width:22%;
+	margin:auto;
+}
+.contact-me{
+		
+	width:40%;
+	margin: 40px auto 60px;
+
+}
+p{
+	line-height: 2;
+}
+hr{
+	border: dotted #EAF6F6 6px;
+	border-bottom: none;
+	width:4%;
+	margin:100px auto 100px auto;
+}
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #11cdd4;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #11cdd4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 7px #11cdd4;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #6ad413 5%, #11cdd4 100%);
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a{
+	color:#11999E;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	margin :10px 20px;
+}
+a:hover{
+	color:#EAF6F6;
+}
+.copy{
+	color:#EAF6F6;
+	font-size:0.75rem;
+	padding : 20px 0px;
+}
