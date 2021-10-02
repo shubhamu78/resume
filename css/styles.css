@@ -132,14 +132,12 @@ hr{
 	top:1px;
 }
 a{
-	color:#11999E;
+	color: white;
 	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
 	margin :10px 20px;
 }
-a:hover{
-	color:#EAF6F6;
-}
+
 .copy{
 	color:#EAF6F6;
 	font-size:0.75rem;
